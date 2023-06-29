@@ -1,0 +1,25 @@
+{
+    "section1": [
+        {
+            "id": 1,
+            "images": "https://i.pinimg.com/564x/d8/f7/12/d8f7126f899f356e978544e5bc2c209c.jpg",
+            "desc": "Ketahui Jenis dan Jadwal Vaksinasi Kucing Kesayangan Kamu"
+        },
+        {
+            "id": 2,
+            "images": "https://i.pinimg.com/564x/e5/ba/15/e5ba155fc6bd1650bb2c6d875dc12d07.jpg",
+            "desc": "Penyebab dan Cara Mengatasi Anabulus yang Tidak Mau Makan"
+        },
+        {
+            "id": 3,
+            "images": "https://i.pinimg.com/564x/aa/c6/15/aac6152c0f6307f5e3f2bc8b40501484.jpg",
+            "desc": "Kenali 8 Ciri-Ciri Anjing Rabies yang Perlu Diwaspadai!"
+        },
+        {
+            "id": 4,
+            "images": "https://i.pinimg.com/564x/4d/1f/4c/4d1f4c8f806f40747a566713073faa65.jpg",
+            "desc": "Risiko Kesehatan yang Dapat Terjadi pada Kucing Obesitas"
+        }
+    ]
+}
+
